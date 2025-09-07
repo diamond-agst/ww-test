@@ -1,1 +1,16 @@
-{}
+{
+  "openFilters": "Open Filter",
+  "title": "Filters",
+  "close": "Close",
+  "loading": "Loading…",
+  "loadError": "Failed to load filters.",
+  "cancel": "Cancel",
+  "apply": "Apply",
+  "confirmApply": "Apply changes?",
+  "debugSelected": "Selected filters (debug)",
+  "clearAll": "Clear all parameters",
+  "confirmTitle": "Do you want to apply new filter",
+  "useOldFilter": "Use old filter",
+  "applyNewFilter": "Apply new filter"
+}
+
